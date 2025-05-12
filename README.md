@@ -18,7 +18,7 @@ Este projeto contém um dashboard interativo desenvolvido em Power BI para explo
 ## 🧮 Fonte dos Dados
 
 - Portal INEP — Indicadores Educacionais  
-  🔗 [https://www.gov.br/inep](https://www.gov.br/inep)
+  🔗 [https://www.gov.br/inep](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/indicadores-educacionais)
 
 ## 📊 Visualizações incluídas
 
